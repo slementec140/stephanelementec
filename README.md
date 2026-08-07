@@ -12,7 +12,7 @@ I live at the intersection of AI, growth, and privacy tech. I build things I wis
 - Building AI-powered marketing workflows with Claude
 - Exploring what "agentic marketing" (and "agentic privacy", for that matter) actually means in practice (spoiler: it's less robots, more leverage)
 - Slowly convincing engineers that good copy matters
-- Perfecting sourdough loaves with my now 8-year old start (awww..they grow up so fast!)
+- Perfecting sourdough loaves with my now 8-year old starter (awww..they grow up so fast!)
 
 ---
 
