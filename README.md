@@ -1,4 +1,4 @@
-# I'm Stéphane 🍞
+# I'm Stéphane 🥖🥐
 
 **Head of Demand Generation at [Ketch](https://www.ketch.com)** — the platform that makes data privacy actually work for businesses.
 
