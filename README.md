@@ -1,6 +1,6 @@
 # I'm Stéphane 🍞
 
-**Head of Marketing at [Ketch](https://ketch.com)** — the platform that makes data privacy actually work for businesses.
+**Head of Demand Generation at [Ketch](https://www.ketch.com)** — the platform that makes data privacy actually work for businesses.
 
 I live at the intersection of AI, growth, and privacy tech. I build things I wish existed — automations, tools, prompts — mostly to make marketing less manual and more interesting. I write occasionally, experiment constantly, and have strong opinions about consent flows that don't suck.
 
@@ -8,9 +8,9 @@ I live at the intersection of AI, growth, and privacy tech. I build things I wis
 
 ### Currently
 
-- Running demand gen and brand for [Ketch](https://ketch.com): content, paid, analyst relations, and the occasional unhinged AI experiment
-- Building AI-powered marketing workflows with Claude — from LinkedIn generators to competitive intel pipelines
-- Exploring what "agentic marketing" actually means in practice (spoiler: it's less robots, more leverage)
+- Running demand gen and brand for [Ketch](https://www.ketch.com): content, paid, seo/aeo, and the unhinged AI experiments that go along with these
+- Building AI-powered marketing workflows with Claude
+- Exploring what "agentic marketing" (and "agentic privacy", for that matter) actually means in practice (spoiler: it's less robots, more leverage)
 - Slowly convincing engineers that good copy matters
 
 ---
